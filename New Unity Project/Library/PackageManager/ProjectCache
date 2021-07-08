@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637613260180000000
+      ticks: 637613817090000000
     m_Hash: 3599687686
   m_LockFileStatus:
     m_FilePath: /Users/mr14/Documents/GitHub/2021_360VR/New Unity Project/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637613260180000000
+      ticks: 637613817090000000
     m_Hash: 1403752939
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
