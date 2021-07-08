@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 361
-    y: 358
+    x: 201
+    y: 366
     width: 800
     height: 573
   m_ShowMode: 0
@@ -39,11 +39,11 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 617
-    y: 166
+    y: 165
     width: 1864
     height: 1100
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Project
   m_RootView: {fileID: 9}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -373,8 +373,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 361
-    y: 358
+    x: 201
+    y: 366
     width: 800
     height: 552
   m_ViewDataDictionary: {fileID: 0}
@@ -399,7 +399,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 617
-    y: 815
+    y: 814
     width: 1428
     height: 410
   m_ViewDataDictionary: {fileID: 0}
@@ -429,9 +429,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 0e3f0000
-    m_LastClickedID: 16142
-    m_ExpandedIDs: 00000000023f000000ca9a3b
+    m_SelectedIDs: 3a3f0000
+    m_LastClickedID: 16186
+    m_ExpandedIDs: 000000002c3f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -459,7 +459,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000023f0000
+    m_ExpandedIDs: 000000002c3f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -536,7 +536,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 2046
-    y: 196
+    y: 195
     width: 434
     height: 1029
   m_ViewDataDictionary: {fileID: 0}
@@ -573,7 +573,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 617
-    y: 196
+    y: 195
     width: 344
     height: 598
   m_ViewDataDictionary: {fileID: 0}
@@ -582,7 +582,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 3afaffff5afaffff1cfbffff
+      m_ExpandedIDs: 4cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -627,7 +627,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 962
-    y: 196
+    y: 195
     width: 1082
     height: 598
   m_ViewDataDictionary: {fileID: 0}
@@ -644,7 +644,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 7.159605, y: 4.6980233, z: 2.304997}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: 7.159605, y: 4.6980233, z: 2.304997}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -693,11 +693,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.010808203, y: 0.015595835, z: -0.00016855191, w: -0.9998196}
     speed: 2
-    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Value: {x: -0.010808203, y: 0.015595836, z: -0.00016855192, w: -0.9998196}
   m_Size:
     m_Target: 3.1109593
     speed: 2
-    m_Value: 10
+    m_Value: 3.1109593
   m_Ortho:
     m_Target: 0
     speed: 2
